@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetanitProject", "MetanitPr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Глава 3. Классы, структуры и пространства имен", "Глава 3. Классы, структуры и пространства имен", "{D96A97C9-D355-4384-846B-9E657555E4F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAndObjects", "ClassesAndObjects\ClassesAndObjects.csproj", "{7B7F701F-21B1-4B91-887E-A7923E294789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,9 +19,16 @@ Global
 		{16A60C32-3CCC-4176-9C14-742DD018252C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A60C32-3CCC-4176-9C14-742DD018252C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A60C32-3CCC-4176-9C14-742DD018252C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7F701F-21B1-4B91-887E-A7923E294789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7F701F-21B1-4B91-887E-A7923E294789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7F701F-21B1-4B91-887E-A7923E294789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7F701F-21B1-4B91-887E-A7923E294789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B7F701F-21B1-4B91-887E-A7923E294789} = {D96A97C9-D355-4384-846B-9E657555E4F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC376DB1-1052-4452-8FC4-71E71F6F0B8C}
